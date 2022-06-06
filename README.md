@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hey there, I'm Nico 👋
 
+Let me introduce myself as a young 22 years old boy who is really looking forward to become a proficient software engineer.
+
+I am a software developer and my main knowledge is JAVA, SQL and GIT.
+
+I am currently learning:
+- *Java SE 11*.
+- Java Web JSP, JSF, APIs
+- Java Hibernate.
+- Java Spring.
+- *Linux*. Terminal (shell), filesystem management (files, directories and permissions), vi, libraries, DEB and RPM packages: use of APT, YUM and Zypper.
+- Security. General concepts, authentication, vulnerabilities, malware, hashing.
+
+I have studied, read or learned about:
+- *Object-oriented paradigm* (OOP), **SOLID+**, and some **design patterns**.
+- *JavaScript ES6*: => **fat arrow functions**, **async/await functions**, **promises**, **import/export syntax**.
+- *SQL Queries*
+- How to manage *REST APIs* in **Node.JS** with the **Express** package.
+- Agile *Scrum* framework.
+- *MSSQL scripts*: DDL and DML. Creation of tables with all kinds of restrictions. Also use of transactions in sotred procedures and triggers.
+- *HTML, CSS, JS* (+ Bootstrap).
 <!--
-**nicoarbio/nicoarbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### I'm using my free time to translate and refactor my projects in order to show here what I'm capable of. So if you have some time, please check my projects. Any feedback is highly appreciated!
 -->
+
+You can
+- Contact me at nicolasarbio@outlook.com
+- Connect me on [LinkedIn](https://www.linkedin.com/in/nicolás-arbio/?locale=en_US)!
+- [Check my resume](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_ES.pdf) (spanish version)
+- [Check my resume](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_EN.pdf) (english version)
+
+### Thank you for the visit, hope to see you soon
