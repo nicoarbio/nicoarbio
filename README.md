@@ -27,7 +27,7 @@ I have studied, read or learned about:
 You can
 - Contact me at nicolasarbio@outlook.com
 - Connect me on [LinkedIn](https://www.linkedin.com/in/nicolás-arbio/?locale=en_US)!
-- [Check my resume](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_ES.pdf) (spanish version)
 - [Check my resume](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_EN.pdf) (english version)
+<!-- - [Check my resume](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_ES.pdf) (spanish version) -->
 
 ### Thank you for the visit, hope to see you soon
