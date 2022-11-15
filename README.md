@@ -1,6 +1,6 @@
 ## Hey there, I'm Nico 👋
 
-Let me introduce myself as a young 22 years old boy who is really looking forward to become a proficient software engineer.
+Let me introduce myself as a young 23 years old boy who is really looking forward to become a proficient software engineer.
 
 I am a software developer and my main knowledge is JAVA, SQL and GIT.
 
