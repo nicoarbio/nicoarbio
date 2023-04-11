@@ -17,6 +17,7 @@ I have studied, read or learned about:
 - *Object-oriented paradigm* (OOP), **SOLID+**, and some **design patterns**.
 - *JavaScript ES6*: => **fat arrow functions**, **async/await functions**, **promises**, **import/export syntax**.
 - *SQL Queries*
+- GIT as VCS
 - How to manage *REST APIs* in **Node.JS** with the **Express** package.
 - Agile *Scrum* framework.
 - *MSSQL scripts*: DDL and DML. Creation of tables with all kinds of restrictions. Also use of transactions in sotred procedures and triggers.
