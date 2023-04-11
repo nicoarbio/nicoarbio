@@ -5,8 +5,9 @@ Let me introduce myself as a 23 years old boy who is working hard to become a pr
 My main stack is JAVA, SQL and GIT, and I'm currently working as a Software Engineer using [jPos Framework](https://github.com/jpos).
 
 I am currently learning:
-- Java Spring & Spring Booy.
-- Java Web JSP, JSF, APIs
+- Spring Framework & Spring Boot.
+- React.JS.
+- Java Web JSP, JSF, APIs.
 - *Linux*. Terminal (shell), filesystem management (files, directories and permissions), vi, libraries, DEB and RPM packages: use of APT, YUM and Zypper.
 - Security. General concepts, authentication, vulnerabilities, malware, hashing.
 
