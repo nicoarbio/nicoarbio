@@ -27,7 +27,7 @@ I have studied, read or learned about:
 - *OracleDB*: Flashback queries.
 - MS PowerBI + MS Power Automate + MS Planner.
 - *HTML, CSS, JS* (+ Bootstrap/AntD/MaterialUI + AOS/Animista).
-- - *Linux*. Terminal (shell), filesystem management (files, directories and permissions), vi, libraries, DEB and RPM packages: use of APT, YUM and Zypper.
+- *Linux*. Terminal (shell), filesystem management (files, directories and permissions), vi, libraries, DEB and RPM packages: use of APT, YUM and Zypper.
 - Security. General concepts, authentication, vulnerabilities, malware, hashing.
 
 You can
