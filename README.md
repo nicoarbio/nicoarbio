@@ -4,7 +4,7 @@ Let me introduce myself as a developer who is working hard to become a proficien
 
 My main stack is JAVA (with SQL and GIT), and I'm currently working as a Software Developer at [Despegar](https://www.despegar.com).
 
-I have worked migrating [jPos Framework](https://github.com/jpos) projects from version 1 to version 2.
+I worked migrating [jPos Framework](https://github.com/jpos) projects from version 1 to version 2.
 
 I am currently learning:
 - Flutter
