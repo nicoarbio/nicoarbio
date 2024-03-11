@@ -10,7 +10,7 @@ I am currently learning:
 - Flutter
 - React.JS.
 
-Learning queue:
+Next things to learn:
 - Java Web JSP, JSF, APIs.
 
 I have studied, read or learned about:
