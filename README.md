@@ -9,6 +9,8 @@ I worked migrating [jPos Framework](https://github.com/jpos) projects from versi
 I am currently learning:
 - Flutter
 - React.JS.
+
+Learning queue:
 - Java Web JSP, JSF, APIs.
 
 I have studied, read or learned about:
