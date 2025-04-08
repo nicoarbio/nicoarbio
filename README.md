@@ -1,40 +1,89 @@
-## Hey there, I'm Nico 👋
+## 👋 Hey there, I'm Nico 
 
-I'm a hard working developer who wants to become a proficient Software Engineer. I love thinking about new solutions and I'm building my profile as a FullStack with stronger skills in Backend than Frontend design
+🧑‍💻 I'm a **Software Engineer** passionate about building scalable backend services and engaging frontend experiences.
 
-My main stack is SpringBoot for backend and Angular for frontend, and I'm currently working as a Software Developer at [Despegar](https://www.despegar.com).
+🎓 I'm completing my [Information Technology Career](https://www.palermo.edu/ingenieria/complementacion-lic-en-tecnologia-de-la-informacion/) at [Universidad de Palermo](https://www.palermo.edu/)
 
-Previously, I worked migrating [jPos Framework](https://github.com/jpos) projects from version 1 to version 2.
+---
 
-I am currently learning:
-- Angular v17
+### 📊 GitHub Stats & Contributions
 
-Next things to learn:
-- Ionic (with Angular!)
+<div align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoarbio&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+</div>
+<div align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicoarbio&show_icons=true&theme=tokyonight" alt="Nico's GitHub Stats"/>
+  </a>
+</div>
 
-I have studied, read or learned about:
-- Spring Framework & SpringBoot (+ v2 to v3 migrations).
-- *Java SE 21*.
-- Hibernate ORM for JAVA.
-- *Object-oriented paradigm* (OOP), **SOLID+**, and some **design patterns**.
-- *JavaScript ES6*: => **fat arrow functions**, **async/await functions**, **promises**, **import/export syntax**.
-- *SQL Queries*
-- GIT as VCS.
-- How to manage *REST APIs* in SpringBoot and in **Node.JS** with the **Express** package.
-- Implementation of Spring Security for API Rest using JWT.
-- Agile *Scrum* framework.
-- *GitHub Actions* as CI/CD tool to automatize some tasks.
-- *Linux*. Terminal (shell), filesystem management (files, directories and permissions), vi, libraries, DEB and RPM packages: use of APT, YUM and Zypper.
-- Security. General concepts, authentication, vulnerabilities, malware, hashing.
-- *OracleDB*: Flashback queries.
-- *MSSQL scripts*: DDL and DML. Creation of tables with all kinds of restrictions. Also use of transactions in sotred procedures and triggers.
-- MS PowerBI + MS Power Automate + MS Planner.
-- *HTML, CSS, JS* (+ Bootstrap/PrimeNG/AntD/MaterialUI + AOS/Animista).
+---
 
-You can
-- Contact me at [nicolasarbio@outlook.com](mailto:nicolasarbio@outlook.com)
-- Connect me on [LinkedIn](https://www.linkedin.com/in/nicolás-arbio/?locale=en_US)!
-- [Check my resume (Probably outdated)](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_EN.pdf) 
-<!-- - [Check my resume](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_ES.pdf) (spanish version) -->
+### 🧠 Tech Stack & Skills
 
-### Thank you for the visit, hope to see you soon
+- 💻 **Languages & Paradigms**
+  - Java SE 21 | OOP, SOLID principles, Design Patterns
+  - JavaScript ES6+ | Promises, async/await, arrow functions
+
+- 🚀 **Backend**
+  - SpringBoot (including v2 → v3 migration)
+  - Spring Security + JWT (OAuth)
+  - Hibernate ORM
+  - Node.js + Express for REST APIs
+
+- 🎨 **Frontend**
+  - Angular | HTML, CSS, JS  
+  - UI Libraries: Bootstrap, PrimeNG, AntD, MaterialUI  
+  - Animations: AOS, Animista
+
+- 🧮 **Databases**
+  - SQL & NOSQL
+  - _Oracle_: flashback queries
+  - _MSSQL_: Stored procedures and triggers
+
+- 🛠️ **DevOps & Tools**
+  - Git
+  - GitHub Actions (CI/CD)
+  - Linux: Terminal, DEB/RPM packages, APT, YUM, Zypper
+
+- 🔐 **Security**
+  - Auth, hashing, malware, vulnerabilities
+
+- 📊 **Data & Productivity Tools**
+  - Power BI, Power Automate, Planner
+  - Jira, Confluence
+
+- 🔁 **Agile**
+  - Scrum methodology
+
+---
+
+### 💼 Experience
+
+- 🛫 **Software Developer @ [Despegar](https://www.despegar.com)**  
+  `2023 - Present`  
+  Backend & frontend development in the travel industry.
+
+- 💳 **Software Engineer @ [Eldar](https://www.eldars.com.ar/)**  
+  `2022 - 2023`  
+  Developed fintech services with a focus on scalable and secure backend systems.
+
+- 🧩 **SAP Data Transformation Consultant @ [SNP Group](https://www.snpgroup.com/en/career/latin-america/)**  
+  `2019 - 2022`  
+  Worked on SAP data migration and transformation for enterprise systems.
+
+---
+
+### 📫 Let's connect!
+
+- 📧 Email: [nicolasarbio@outlook.com](mailto:nicolasarbio@outlook.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolás-arbio/?locale=en_US)  
+- 📄 [Resume (EN)](https://github.com/nicoarbio/nicoarbio/blob/main/Nicolás%20Gabriel%20Arbio%20-%20CV_EN.pdf)
+
+---
+
+🫶 Thanks for visiting, hope to connect with you soon!
+
+![Profile views](https://komarev.com/ghpvc/?username=nicoarbio&style=flat-square)
